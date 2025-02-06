@@ -1,5 +1,4 @@
-Lorem Ipsum
-===========
+# Lorem Ipsum
 
 A group project for Version Control 101 Course
 
@@ -9,10 +8,11 @@ It is a long established fact that a reader will be distracted by the readable c
 
 ## Team Members
 
-*   Hedy Lamarr
-*   Grace Hopper
-*   Charles Babbage
-*   Alan Turing
+- Hedy Lamarr
+- Grace Hopper
+- Charles Babbage
+- Alan Turing
+- Ada Lovelace
 
 ## Contact
 
